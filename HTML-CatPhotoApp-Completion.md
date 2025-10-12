@@ -4,7 +4,8 @@
 
 https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/
 
-https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg
+IMG_20251012_143939.jpg
+
 **پروژه "برنامه عکس گربه" در FreeCodeCamp با موفقیت تکمیل شد!**
 
 ## 📊 آمار پروژه:
