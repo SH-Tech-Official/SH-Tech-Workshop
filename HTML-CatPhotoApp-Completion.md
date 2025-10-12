@@ -1,8 +1,8 @@
-# 🎉 تکمیل اولین پروژه HTML من | My First HTML Project Completion
+# 🎉 تکمیل اولین پروژه HTML من
 
-![Cat Photo App](https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg)
+![پروژه Cat Photo App](https://github.com/SH-Tech-Official/SH-Tech-Protfolio/blob/main/IMG_20251012_143939.jpg)
 
-**پروژه "برنامه عکس گربه" در FreeCodeCamp با موفقیت تکمیل شد!**  
+**پروژه "برنامه عکس گربه" در FreeCodeCamp با موفقیت تکمیل شد!**
 
 ## 📊 آمار پروژه:
 - ✅ ۴۲ استپ آموزشی
@@ -16,9 +16,4 @@
 - Forms & User Input
 - Web Accessibility
 
-## 🌟 قدم بعدی:
-**شروع یادگیری CSS برای زیباسازی پروژه‌ها**
-
----
-
-🏷️ #HTML #WebDevelopment #CodingJourney #WomenInTech #SH_Tech
+🏷️ #HTML #WebDevelopment #SH_Tech
