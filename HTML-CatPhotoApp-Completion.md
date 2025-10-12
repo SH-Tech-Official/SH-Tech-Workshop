@@ -1,7 +1,10 @@
 # 🎉 تکمیل اولین پروژه HTML من
 
 ![پروژه Cat Photo App]
-https://github.com/SH-Tech-Official/SH-Tech-Protfolio/blob/main/IMG_%DB%B2%DB%B0%DB%B2%DB%B5%DB%B1%DB%B0%DB%B1%DB%B2_%DB%B1%DB%B4%DB%B3%DB%B9%DB%B3%DB%B9.jpg
+
+https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/
+
+https://github.com/SH-Tech-Official/SH-Tech-Protfolio/blob/main/HTML-CatPhotoApp-Completion.md
 
 **پروژه "برنامه عکس گربه" در FreeCodeCamp با موفقیت تکمیل شد!**
 
