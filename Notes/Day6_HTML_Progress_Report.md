@@ -1,8 +1,8 @@
 🌟 Day 6 of My Coding Journey - روز ششم از مسیر کدنویسی من
 ...
-◾ https://github.com/SH-Tech-Official/SH-Tech-Protfolio/blob/main/IMG_%DB%B2%DB%B0%DB%B2%DB%B5%DB%B1%DB%B0%DB%B1%DB%B3_%DB%B1%DB%B2%DB%B1%DB%B0%DB%B0%DB%B3.jpg
+◾ https://github.com/SH-Tech-Official/SH-Tech-Workshop/blob/main/Screenshots/IMG_%DB%B2%DB%B0%DB%B2%DB%B5%DB%B1%DB%B0%DB%B1%DB%B2_%DB%B1%DB%B9%DB%B2%DB%B9%DB%B0%DB%B7.jpg
 ---
-◾ https://github.com/SH-Tech-Official/SH-Tech-Protfolio/blob/main/IMG_%DB%B2%DB%B0%DB%B2%DB%B5%DB%B1%DB%B0%DB%B1%DB%B3_%DB%B1%DB%B2%DB%B1%DB%B0%DB%B2%DB%B8.jpg
+◾ https://github.com/SH-Tech-Official/SH-Tech-Workshop/blob/main/Screenshots/IMG_%DB%B2%DB%B0%DB%B2%DB%B5%DB%B1%DB%B0%DB%B1%DB%B3_%DB%B1%DB%B2%DB%B1%DB%B0%DB%B0%DB%B3.jpg
 ---
 
 🚀 Today's Progress - پیشرفت امروز:
