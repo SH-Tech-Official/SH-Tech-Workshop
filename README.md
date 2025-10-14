@@ -31,3 +31,11 @@ To track my daily progress, improve through consistent practice, and build a pro
 ---
 
 🌐 **Created and managed by [SH-Tech Official](https://github.com/SH-Tech-Official)**
+
+---
+## Explore
+- [Resume](./Resume)
+- [Projects](./Projects)
+- [Screenshots](./Screenshots)
+- [Notes](./Notes)
+---
