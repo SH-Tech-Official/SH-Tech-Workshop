@@ -1,0 +1,25 @@
+h2 ,h3 ,h4 {
+           text-align: center;
+                }
+h1{
+	margin: 0 auto;
+	}
+html, body {
+	          background-color: white;
+                    }
+#main-content {
+                  color: purple;
+                    }
+#header {
+           color: gold;
+                }
+.social-links {
+             color: green;
+                     }
+.happy-cooking {
+               color: gray;
+                           }
+.nutrition {
+          color: crimson;
+                }
+	            
