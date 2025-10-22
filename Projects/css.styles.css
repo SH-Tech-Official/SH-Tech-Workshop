@@ -1,0 +1,46 @@
+.icon-user::before {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 800;
+    content: "\f005";
+    color: #6A0DAD;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.icon-diamond::before {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    content: "\f3a5";
+    color: #9370DB;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.cool-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.cool-list li::before {
+    content: "■";
+    color: purple;
+    font-size: 1em;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.cool-list li {
+    padding: 8px 0;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.cool-list li:hover::before {
+    color: #6A0DAD;
+    transform: scale(1.2);
+}
+body {
+	background-image: url(https://i.postimg.cc/sxrpJc0F/jei-lee-pr0I-DUB5e-A-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+        }
